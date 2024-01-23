@@ -21,6 +21,7 @@ from pizza_sales
 --
 SELECT SUM(total_price)  AS Total_Revenue
 FROM pizza_sales
+
 --sonuçlar küsüratta farklý çýktý.
 
 
